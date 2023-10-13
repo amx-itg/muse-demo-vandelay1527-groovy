@@ -1,0 +1,10 @@
+{
+  "id": "ITG_DEMO_GROOVY",
+  "name": "ITG Demo Lab Groovy",
+  "description": "Initial release of complete sample room in Groovy",
+  "disabled": false,
+  "provider": "groovy",
+  "scope": "",
+  "script": "DemoRoomControlMain.groovy",
+  "envvars": {}
+}
